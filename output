@@ -1,0 +1,39 @@
+<h1>test</h1>
+<u>sample</u><i>test</i>
+<h1>check</h1>
+
+
+<h1>Fruit</h1>
+    <i>apple</i> 
+    <mark>mango</mark>
+    <u>pineapple</u>
+    <strike>grapes</strike>
+   <mark><b><u>orange</u></b></mark>
+
+
+   <h1>student Name:<i>priya</i></h1>
+    <i>student City:</i><u>bengaluru</u>
+    <h2>student Age:<mark>22</mark></h2>
+    <h2>student Mark:A<sup>+</sup></h2>
+
+
+    <h3>Java Fullstack</h3>
+    <h5><strike>java</strike></h3>
+    <h5>jdbc</h3>
+    <h5><mark>SPRING</mark></h3>
+    <h5>HIBERNATE</h3>
+        <hr>
+    <h3><u><i>Merin fullstack</i></u></h3>
+    <h3>MongoDB</h3>
+    <h3>Express<sup>JS</sup></h3>
+    <h4>React<sup>js</sup></h4>
+    <h6>node<sup>js</sup></h6>
+
+
+
+      <h2>Employee Name : <i><mark>Ramya</mark>Aunty</i></h2>
+    <h2>Employee ID : <i>0</i>09</h2>
+    <h2>Employee Salary : 56<i>,</i>000</h2>
+    <h2>Employee Designation : TestENg</h2>
+    <h2>EMployee Phone : 9448030690</h2>
+    <hr>
